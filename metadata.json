@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sentix - E-commerce Sentiment Analyzer",
+  "description": "A high-performance NLP sentiment analysis dashboard for e-commerce reviews, providing real-time sentiment classification, scoring, and aggregate customer satisfaction insights using Gemini 3.",
+  "requestFramePermissions": []
+}
